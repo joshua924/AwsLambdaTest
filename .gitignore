@@ -1,4 +1,4 @@
-*.jar
+aws*.jar
 .idea
 aws-java-sdk-1.11.202
 out
